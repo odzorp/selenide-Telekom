@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/AlbertHughes/IdeaProjects/SelenideTest">
+        <classes>
+            <class name="TestFormFields"/>
+            <class name="PopUpTest"/>
+            <class name="ModalTest"/>
+            <class name="CalendarTest"/>
+            <class name="TableTest"/>
+            <class name="WindowsOperationTest"/>
+            <class name="FileUploadTest"/>
+            <class name="FileDownloadTest"/>
+            <class name="IframeTest"/>
+            <class name="SliderTest"/>
+        </classes>
+    </test>
+</suite>
